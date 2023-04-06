@@ -1,0 +1,5 @@
+python train.py env=fish_swim seed=1 experiment=SAC-PER
+python train.py env=fish_swim seed=2 experiment=SAC-PER
+python train.py env=fish_swim seed=3 experiment=SAC-PER
+python train.py env=hopper_hop seed=3 experiment=SAC-PER
+python train.py env=pendulum_swingup seed=3 experiment=SAC-PER

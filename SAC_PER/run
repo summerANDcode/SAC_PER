@@ -1,0 +1,1 @@
+python train.py env=cheetah_run seed=2 experiment=cheetah_run_seed1

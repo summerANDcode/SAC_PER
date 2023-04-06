@@ -1,0 +1,6 @@
+python train.py env=cheetah_run seed=2 experiment=SAC-PER
+python train.py env=quadruped_run seed=2 experiment=SAC-PER
+python train.py env=walker_run seed=2 experiment=SAC-PER
+python train.py env=cheetah_run seed=3 experiment=SAC-PER
+python train.py env=quadruped_run seed=3 experiment=SAC-PER
+python train.py env=walker_run seed=3 experiment=SAC-PER
